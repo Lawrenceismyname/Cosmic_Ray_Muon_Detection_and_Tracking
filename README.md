@@ -1,5 +1,5 @@
 # Cosmic_Ray_Muon_Detection_and_Tracking
-This project implements a cosmic ray muon tracker using a 25 cm plastic scintillator bar with dual-ended SiPM readout. It includes Geant4 simulations for system optimization and Python code for data analysis from both an oscilloscope and a custom ASIC. The work evaluates various position reconstruction methods, with multiple linear regression achieving a best spatial resolution of 1.54 cm.
+This project implements a cosmic ray muon tracker using a 25 cm plastic scintillator bar with dual-ended SiPM readout. It includes Geant4 simulations for system optimization and Python code for data analysis from both an oscilloscope and a custom ASIC. The work evaluates various position reconstruction methods, with multiple linear regression achieving the lowest standard deviation in the position estimate of 1.54 cm.
 
 Contents: 
 Code used to process simulation and experimentation data. 
