@@ -1,0 +1,10 @@
+/random/setSeeds 1001 1000
+/process/optical/processActivation Cerenkov  false
+/process/optical/processActivation OpWLS  false
+/process/optical/processActivation OpWLS2  false
+/process/optical/cerenkov/setStackPhotons false
+/run/numberOfThreads 8
+/run/initialize
+/run/beamOn 1024
+
+

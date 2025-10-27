@@ -1,0 +1,8 @@
+/process/optical/processActivation Cerenkov  false
+/process/optical/processActivation OpWLS  false
+/process/optical/processActivation OpWLS2  false
+/process/optical/cerenkov/setStackPhotons false
+/run/numberOfThreads 4
+/run/initialize
+/gun/energy 6.0 GeV
+/run/beamOn 16
